@@ -1,0 +1,9 @@
+Package: co.azozzalfiras.igcopycomments
+Name: IGCopyCmments
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks
